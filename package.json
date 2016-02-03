@@ -1,0 +1,30 @@
+{
+  "name": "ImgScale",
+  "version": "1.0.0",
+  "description": "Scale image for iOS",
+  "main": "index.js",
+  "scripts": {
+    "1":"node ./index.js 1",
+    "2":"node ./index.js 2",
+    "3":"node ./index.js 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq4647805/ImgScale.git"
+  },
+  "keywords": [
+    "scale",
+    "image",
+    "ios"
+  ],
+  "author": "zyeye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq4647805/ImgScale/issues"
+  },
+  "homepage": "https://github.com/qq4647805/ImgScale#readme",
+  "devDependencies": {
+    "imagemin": "^4.0.0",
+    "jimp": "^0.2.21"
+  }
+}
